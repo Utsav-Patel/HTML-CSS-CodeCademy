@@ -10,15 +10,15 @@ div {
     width: 75px;
     background-color: #547980;
     /*Add your CSS here!*/
-    position: absolute;
-    margin-left: 10px;
+    position: relative;
+    margin-left: 150px;
 }
 
 #outer {
     height: 150px;
     width: 150px;
     background-color: #45ADA8;
+    position: absolute;
     margin-left: 100px;
     margin-right: 1000px;
-    position: absolute;
 }
