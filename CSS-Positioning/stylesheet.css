@@ -10,12 +10,12 @@ div {
     width: 75px;
     background-color: #547980;
     /*Add your CSS here!*/
-    position: relative;
+    position: fixed;
     margin-left: 150px;
 }
 
 #outer {
-    height: 150px;
+    height: 1500px;
     width: 150px;
     background-color: #45ADA8;
     position: absolute;
